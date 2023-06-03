@@ -1,3 +1,4 @@
+from currency_converter import CurrencyConverter 
 C=CurrencyConverter()
 
 try:
