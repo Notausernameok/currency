@@ -1,5 +1,5 @@
 # Currency Converter
 
-#Installation
+# Installation
 
 refer to this link (https://pypi.org/project/CurrencyConverter/)
